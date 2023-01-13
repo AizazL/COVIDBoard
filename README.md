@@ -1,4 +1,4 @@
-# Covid-Data-Analysis-2023
+# COVID19-Data-Analysis-and-Visualization-2023
 
 [Data Visualization Link](https://public.tableau.com/views/COVID-19DataAnalysisandVisualization2023/Dashboard1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
 
