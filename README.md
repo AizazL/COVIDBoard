@@ -12,3 +12,6 @@ Some of these queries have been used to create tables for visualization in Table
 Future Plans:
    - Update database automatically every x months.
    - Add more queries looking at Hospitilization/ICU patients vs resources.
+
+
+Data Visualization done with Tableau available here: https://public.tableau.com/views/COVID-19DataAnalysisandVisualization2023/Dashboard1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link
