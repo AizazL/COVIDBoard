@@ -1,6 +1,6 @@
 # Covid-Data-Analysis-2023
 
-Data Visualization: https://public.tableau.com/views/COVID-19DataAnalysisandVisualization2023/Dashboard1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link
+[Data Visualization Link](https://public.tableau.com/views/COVID-19DataAnalysisandVisualization2023/Dashboard1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
 
 Dataset Provided by https://ourworldindata.org/
 
