@@ -1,4 +1,7 @@
 # Covid-Data-Analysis-2023
+
+Data Visualization: https://public.tableau.com/views/COVID-19DataAnalysisandVisualization2023/Dashboard1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link
+
 Dataset Provided by https://ourworldindata.org/
 
 Dataset is of COVID-19 statistics in early 2023 from the COVID-19 database of OurWorldinData.org. 
@@ -14,4 +17,3 @@ Future Plans:
    - Add more queries looking at Hospitilization/ICU patients vs resources.
 
 
-Data Visualization done with Tableau available here: https://public.tableau.com/views/COVID-19DataAnalysisandVisualization2023/Dashboard1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link
