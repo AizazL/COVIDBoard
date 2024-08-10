@@ -1,4 +1,4 @@
-# COVID19-Data-Analysis-and-Visualization-2023
+# COVIDBoard
 
 ![CovidBoard](https://github.com/user-attachments/assets/66b909ef-ac38-4dd5-a570-f29f69d13b88)
 
